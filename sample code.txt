@@ -1,0 +1,16 @@
+ava = 8;
+sevin = 15;
+if ava > sevin then
+begin
+print ava;
+print sevin;
+end
+else
+while(ava < sevin) do
+begin
+ava += 1;
+end
+for i=1:9 do
+begin
+print i;
+end
