@@ -1,2 +1,2 @@
 # Interpreter
-University java-swing project
+Simple graphical interpreter To illustrate the scanning and parsing steps.
